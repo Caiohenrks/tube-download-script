@@ -1,6 +1,6 @@
 # Tube Download Script
 
-Este script Python baixa vídeos do YouTube e extrai o áudio, salvando-os em uma subpasta chamada "downloads".
+Este script Python baixa vídeos do YT e extrai o áudio, salvando-os em uma subpasta chamada "downloads".
 
 ## Pré-requisitos
 
